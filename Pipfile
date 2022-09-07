@@ -1,0 +1,27 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[requires]
+python_version = "3.8"
+
+[packages]
+requests = "*"
+guilded = "*"
+guilded-py = "1.6.0"
+mongoengine = "*"
+pyyaml = "*"
+munch = "*"
+click = "*"
+certifi = ">=2012.12.7"
+
+[dev-packages]
+flake8 = "*"
+yapf = "*"
+pipenv = "*"
+pytest = "*"
+pytest-cov = "*"
+toml = "*"
+setuptools = "*"
+pbr = "*"
