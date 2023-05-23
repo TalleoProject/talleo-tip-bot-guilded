@@ -15,7 +15,7 @@ multidict==6.0.4
 munch==2.5.0
 pymongo==4.3.3
 pyyaml==6.0
-requests==2.29.0
+requests==2.31.0
 six==1.16.0
 urllib3==1.26.15
 yarl==1.9.2
