@@ -25,7 +25,7 @@ click==8.1.6
 dnspython==2.4.1
 frozenlist==1.4.0
 guilded==0.0.4
-guilded-py==1.9.1
+guilded-py==1.10.0
 idna==3.4
 mongoengine==0.27.0
 multidict==6.0.4
