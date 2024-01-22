@@ -5,7 +5,7 @@ attrs==23.2.0
 certifi==2023.11.17
 charset-normalizer==3.3.2
 click==8.1.7
-dnspython==2.4.2
+dnspython==2.5.0
 frozenlist==1.4.1
 guilded==0.0.4
 guilded.py==1.12.1
