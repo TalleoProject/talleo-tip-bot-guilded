@@ -10,7 +10,7 @@ frozenlist==1.4.1
 guilded==0.0.4
 guilded.py==1.13.0
 idna==3.6
-mongoengine==0.28.0
+mongoengine==0.28.2
 multidict==6.0.5
 munch==4.0.0
 pymongo==4.6.2
