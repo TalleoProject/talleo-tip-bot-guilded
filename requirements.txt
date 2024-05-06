@@ -8,12 +8,12 @@ click==8.1.7
 dnspython==2.6.1
 frozenlist==1.4.1
 guilded==0.0.4
-guilded.py==1.13.0
+guilded.py==1.13.1
 idna==3.7
 mongoengine==0.28.2
 multidict==6.0.5
 munch==4.0.0
-pymongo==4.7.0
+pymongo==4.7.1
 pyyaml==6.0.1
 requests==2.31.0
 urllib3==2.2.1
