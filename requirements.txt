@@ -11,10 +11,10 @@ frozenlist==1.4.1
 guilded==0.0.4
 guilded.py==1.13.2
 idna==3.10
-mongoengine==0.29.0
+mongoengine==0.29.1
 multidict==6.1.0
 munch==4.0.0
-pymongo==4.8.0
+pymongo==4.9.1
 pyyaml==6.0.2
 requests==2.32.3
 typing-extensions==4.12.2
